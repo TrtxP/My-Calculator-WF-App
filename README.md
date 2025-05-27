@@ -4,7 +4,7 @@
 - Resolved multiple sign-typing issues: +, -, /, % and . now work correctly.
 - Fixed behavior when using the Backspace key and clearing the display.
 - The calculator now shows 0 as the default when the display is empty.
-- More issues may be discovered during further testing
+- More issues may be discovered during further testing.
 
 ## New features
 - The display now shows 0 as the default when starting or after clearing.
