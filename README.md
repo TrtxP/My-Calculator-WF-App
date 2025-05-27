@@ -1,15 +1,14 @@
 # My Calculator WF App v1.0.1 (beta)
 
 # Fixed issues
-- Multityping signs +, -, /, % and .
-- Using Backspace key and while clearing
-- the strings on the display of the Calculator app
-- is displaying 0 as default now
-- More issues discovering when you're testing this project
+- Resolved multiple sign-typing issues: +, -, /, % and . now work correctly.
+- Fixed behavior when using the Backspace key and clearing the display.
+- The calculator now shows 0 as the default when the display is empty.
+- More issues may be discovered during further testing
 
 # New features
-- The zero string is displaying default now
-- Typing by keyboards is more pleasant than before
-- More new features disovering when you're testing this project
+- The display now shows 0 as the default when starting or after clearing.
+- Keyboard input is now smoother and more intuitive.
+- More new features may be disovered while testing this project.
 
 (c) TrtxP 2025 
