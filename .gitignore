@@ -1,8 +1,11 @@
-Calculator/bin/
-Calculator/obj/
-Calculator/.vs/
-*,exe
+# Игнорируем стандартные временные папки от Visual Studio
+bin/
+obj/
+.vs/
+
+# Игнорируем бинарные и временные файлы
+*.exe
 *.pdb
-*,user
+*.user
 *.suo
 
